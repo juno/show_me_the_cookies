@@ -1,3 +1,11 @@
+# 6.0
+
+## Poltergeist removed
+
+Phantomjs has been inactive for 2 years, switch to headless chrome or similar.
+https://github.com/ariya/phantomjs/issues/15344
+Or to continue using it see 5.0 notes on capybara-webkit removal.
+
 # 5.0.1
 
 ## Gem development dependencies
